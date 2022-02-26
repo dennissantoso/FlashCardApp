@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-A basic FlashCard App
+A basic FlashCard App, just click it!
 
 ### App Walk-though
 
