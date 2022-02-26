@@ -1,9 +1,9 @@
-## Flash Card App
+## FlashCard App
 
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+A basic FlashCard App
 
 ### App Walk-though
 
