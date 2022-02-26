@@ -7,7 +7,7 @@ A basic FlashCard App
 
 ### App Walk-though
 
-<img src="https://imgur.com/BnxArCb" width=200><br>
+<img src= "https://i.imgur.com/BnxArCb.gif" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio
