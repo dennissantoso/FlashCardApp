@@ -21,11 +21,21 @@
         android:id="@+id/flashcard_answer"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:text="Barack Obama"
-        android:textSize="40sp"
+        android:background="#4F7597"
         android:gravity="center"
-        android:visibility="invisible"
+        android:text="Barack Obama"
         android:textColor="@color/white"
-        android:background="#4F7597"/>
+        android:textSize="40sp"
+        android:visibility="invisible" />
+
+    <ImageButton
+        android:id="@+id/add_button"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:background="@drawable/ic_iconmonstr_plus_6" />
+
 
 </RelativeLayout>
