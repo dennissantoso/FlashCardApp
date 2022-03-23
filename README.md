@@ -1,5 +1,20 @@
 ## FlashCard App
 
+## Lab 3
+
+### App Description
+Continuation of the FlashCard App.
+
+### App Walk-though
+
+<img src="https://i.imgur.com/CGMBe9C.gif" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+## Required
+- [X] User can create a card and still see their created card when the app is relaunched.
+- [X] User can create muliple cards and browse through all created cards
+
 ## Lab 2
 
 ### App Description
