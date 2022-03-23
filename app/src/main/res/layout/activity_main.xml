@@ -37,5 +37,14 @@
         android:layout_margin="10dp"
         android:background="@drawable/ic_iconmonstr_plus_6" />
 
+    <ImageButton
+        android:id="@+id/flashcard_next"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_centerInParent="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:background="@drawable/ic_iconmonstr_arrow_25" />
+
 
 </RelativeLayout>
