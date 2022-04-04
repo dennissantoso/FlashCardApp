@@ -7,7 +7,7 @@ Continuation of the FlashCard App.
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/df2yrnk.gif" width=200><br>
+<img src="https://i.imgur.com/p7UThnC.gif" width=200><br>
 
 ## Required
 - [X] User sees a transition animation when going from the main screen to the add card screen.
