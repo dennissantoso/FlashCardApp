@@ -1,5 +1,24 @@
 ## FlashCard App
 
+## Lab 4
+
+### App Description
+Continuation of the FlashCard App.
+
+### App Walk-though
+
+<img src="https://i.imgur.com/df2yrnk.gif" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+## Required
+- [X] User sees a transition animation when going from the main screen to the add card screen.
+- [X] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [X] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [X] Extra styling is added!
+
 ## Lab 3
 
 ### App Description
